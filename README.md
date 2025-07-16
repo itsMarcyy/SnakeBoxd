@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o projeto
 
-**Snake Box** é um sistema de catálogo pessoal de obras, feito em Python puro, voltado para organizar filmes, séries e animes.  
+**Snake Boxd** é um sistema de catálogo pessoal de obras, feito em Python puro, voltado para organizar filmes, séries e animes.  
 O programa permite cadastrar e listar obras com as seguintes informações:
 
 -  Nome da obra  
